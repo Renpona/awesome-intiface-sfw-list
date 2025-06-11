@@ -102,26 +102,26 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/KaydaFox/vencord-buttplugio
   - Cross platform (requires [Intiface Central](https://intiface.com/central))
   - Discord keyword trigger mod via the Vencord client
-
-### Video Sync / Movies
-
-- [MultiFunPlayer](https://github.com/Yoooi0/MultiFunPlayer)
-  - Free, open source, repo at https://github.com/Yoooi0/MultiFunPlayer
-  - Windows 10+ only
-  - Synchronizes funscripts with OSR-2 or any Intiface compatible device for multiple video
-    players (DeoVR, MPV, HereSphere, Whirligig)
-- [Scriptplayer](https://github.com/FredTungsten/ScriptPlayer)
-  - Free, open source, repo at https://github.com/FredTungsten/ScriptPlayer
-  - Windows 10+ only
-  - Playback of movies using Funscript format, with support for stroking/vibrating/rotating devices.
-- [D-EasyScriptPlayer](https://fantia.jp/products/419895)
-  - Commercial (requires subscription to Fantia page)
-  - Windows 10+ only, requires Intiface Central
-  - Playback of movies using Funscript and Vorze CSV formats (Japanese langauge UI)
-- [monsieursoPythonPlayer](https://github.com/linuxeez/monsieur_so_funscript_player)
-  - Simple Python script, using MPV
-  - Portable (tested on Linux), requires Intiface Central
-  - Playback of movies alongside their funscripts. Supports seeking.
+- [VenPlugPlus](https://codeberg.org/Mopigames/VenPlugPlus)
+  - Free, open source, repo at https://codeberg.org/Mopigames/VenPlugPlus
+  - Cross platform (requires [Intiface Central](https://intiface.com/central))
+  - Fork of Vencord-Buttplugio, adds more integrations for Discord
+- [Anki Haptics](https://ankiweb.net/shared/info/247550864)
+  - Free, open source, repo at https://github.com/Kuuuube/ankihaptics
+  - Cross platform (requires [Intiface Central](https://intiface.com/central))
+  - Buttplug integration for the Anki flashcard system
+- [Simple Intiface Vibes](https://github.com/DabzillaNation/Simple-Initface-Vibes)
+  - Free, open source, repo at https://github.com/DabzillaNation/Simple-Initface-Vibes
+  - Cross platform (requires [Intiface Central](https://intiface.com/central))
+  - Simple vibration binding to mouse/keyboard presses
+- [Ai Peeps Sync](https://github.com/Crispy-repo/theaipeeps-intiface)
+  - Free, open source, repo at https://github.com/Crispy-repo/theaipeeps-intiface
+  - Web based (requires [Intiface Central](https://intiface.com/central))
+  - Tampermonkey script for use with Ai Peeps Chat Features
+- [Heartrate-Buttplug](https://github.com/Das-L1/Heartrate-Buttplug)
+  - Free, open source, repo at https://github.com/Das-L1/Heartrate-Buttplug
+  - Cross platform (requires [Intiface Central](https://intiface.com/central))
+  - Heartrate to Vibration monitor for OBS, using node.js
 
 ### Audio Sync
 
@@ -157,6 +157,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, closed source
   - Windows only, requires [Intiface Central](https://intiface.com/central)
   - Integration for Overwatch 2, League of Legends, Elden Ring, Helldivers 2, Peggle Deluxe, Kinky Dungeon, Ero Dungeons, PowerWash Simulator. More information at https://github.com/Furimanejo/playful-plugins-readme
+  - Custom game intergrations/plugins are easily user generated, such as for [Marvel Rivals](https://github.com/solrac214/marvel-rivals-pp-plugin).
 - [BPGE (ButtPlug Game Events)](https://github.com/allanf181/BPGE)
   - Free, source avaliable, repo at https://github.com/allanf181/BPGE
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central) and [HomeAssistant Game Events](https://www.overwolf.com/app/BinaryBurger-HomeAssistant_Game_Events))
@@ -190,6 +191,10 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Windows 10+ only
   - Intiface integration with the Stockfish chess engine, for relaying moves with morse code to
     vibrating devices.
+- [Crooked Rook](https://github.com/FrostyX/crooked-rook)
+  - Free, open source, repo at https://github.com/FrostyX/crooked-rook
+  - Runs on Linux
+  - The missing link between chess engines and intimate hardware
 - [Game Interface For Toys (Skyrim and Fallout 4)](https://github.com/MinLL/GameInterfaceForToys)
   - Free, open source, repo at https://github.com/MinLL/GameInterfaceForToys
   - Windows 10+ only
@@ -204,7 +209,7 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Intiface integration for Cult of the Lamb
 - [Team Frotress 2 (Team Fortress 2)](https://github.com/fionafibration/team-frotress-2/)
   - Free, open source, repo at https://github.com/fionafibration/team-frotress-2/
-  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
+  - Windows 10+ only, ([new fork that works on linux](https://github.com/imeowfuta/team-frotress-2)), both require [Intiface Central](https://intiface.com/central)
   - Intiface integration for Team Fortress 2
 - [Buttplug Knight (Hollow Knight)](https://github.com/danatron1/ButtplugKnight)
   - Free, open source, repo at https://github.com/danatron1/ButtplugKnight
@@ -212,8 +217,13 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Intiface integration for Hollow Knight
 - [Geometry Plug](https://github.com/Zelfmonco/Geometry-Plug)
   - Free, open source, repo at https://github.com/Zelfmonco/Geometry-Plug
-  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
+  - Windows Mac and Android only, requires [Intiface Central](https://intiface.com/central)
   - Intiface integration for Geometry Dash
+- [R.E.P.L.U.G.](https://github.com/Zelfmonco/R.E.P.L.U.G)
+  - Free, open source, repo at https://github.com/Zelfmonco/R.E.P.L.U.G
+  - Windows only, requires [Intiface Central](https://intiface.com/central)
+  - Also on [Thunderstore](https://thunderstore.io/c/repo/p/Zelfmonco/REPLUG/) for easy install
+  - Intiface Integration for R.E.P.O.
 - [Butt Saber](https://github.com/jackmg2/ButtSaber)
   - Free, open source, repo at https://github.com/jackmg2/ButtSaber
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
@@ -234,6 +244,43 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Free, open source, repo at https://github.com/bananasov/ViralTremors
   - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
   - Intiface integration for Content Warning
+- [WebfishingButtplug](https://github.com/elliotcubit/WebfishingButtplug)
+  - Free, open source, repo at https://github.com/elliotcubit/WebfishingButtplug
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central) & [GDWeave](https://github.com/NotNite/GDWeave/tree/main)
+  - Intiface integration for WEBFISHING
+- [CelestePlug](https://gamebanana.com/mods/554604)
+  - Free, closed source
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central) and [Everest](https://everestapi.github.io/)
+  - Intiface integration for Celeste
+- [Creepy Redneck Dinosaur Mansion Buttplug 3](https://github.com/qdot/creepy-redneck-dinosaur-mansion-buttplug-3)
+  - Free, open source, repo at https://github.com/qdot/creepy-redneck-dinosaur-mansion-buttplug-3
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
+  - Intiface integration for Creepy Redneck Dinosaur Mansion 3
+- [Pegginglin](https://github.com/qdot/pegginglin)
+  - Free, open source, repo at https://github.com/qdot/pegginglin
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
+  - Intiface integration for Peglin
+- [World of Buttcraft](https://github.com/PhilipDecoco/World-of-Buttcraft)
+  - Free, open source, repo at https://github.com/PhilipDecoco/World-of-Buttcraft
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central) and several other
+    tools (see README for project)
+  - Intiface integration for World of Warcraft
+- [Payday 2 - Heister's Haptics](https://modworkshop.net/mod/49879)
+  - Free, open source, repo at https://github.com/Siri-chan/Heisters-Haptics
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
+  - Intiface integration for Payday 2
+- [Wholesome Club Extensions (WCE)](https://github.com/KittenApps/WCE)
+  - Free, open source, repo at https://github.com/KittenApps/WCE
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
+  - Intiface integration for Bondage Club (Fork/Update of FBC mod)
+- [Rocket League Buttplug (RLBP)](https://github.com/idunnojustletme/RLBP)
+  - Free, open source, repo at https://github.com/idunnojustletme/RLBP
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
+  - Intiface integration for Rocket League
+- [Haste: Broken Minds](https://steamcommunity.com/sharedfiles/filedetails/?id=3459133778)
+  - Free, open source, repo at https://git.sr.ht/~slayerofthebad/HasteBrokenMinds
+  - Windows 10+ only, requires [Intiface Central](https://intiface.com/central)
+  - Intiface integration for Haste: Broken Worlds
 
 ### Counter-Strike
 
@@ -248,11 +295,12 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 
 ### Overwatch 2
 
-- [OverStim (Overwatch 2)](https://github.com/cryo-es/OverStim)
-  - Free, open source, repo at https://github.com/cryo-es/OverStim
+- [OverStim (Overwatch 2)](https://codeberg.org/pharmercy/OverStim)
+  - Free, open source, repo at https://codeberg.org/pharmercy/OverStim
   - Windows 10+ only (requires [Intiface Central](https://intiface.com/central))
-  - Support offered through their [Discord](https://discord.com/invite/AVpcVhQQhu)
-  - Uses computer vision to trigger toys. Compatible with all heroes and has some hero-specific features.
+  - Uses computer vision to trigger toys with a focus on Healing characters.
+  - Older repo: https://github.com/cryo-es/OverStim?tab=readme-ov-file#attention
+- See also: Playful Plugins in Game Mods section
 
 ### Risk of Rain 2
 
@@ -334,6 +382,12 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Maintained by Community Developers
   - C++ Client library
 
+#### Java
+- [Buttplug4j](https://github.com/blackspherefollower/buttplug4j)
+  - Available via Github Repo (including hosted Maven repos)
+  - Maintained by Buttplug Core Team
+  - Java client
+
 #### Kotlin
 - [Buttplug-kt](https://gitlab.com/Doomsdayrs/buttplug-kt)
   - Available via local install, not yet on maven
@@ -385,12 +439,20 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
     Engine](https://github.com/intiface/intiface-engine)
 
 #### Dart
-- [Buttplug Dart](https://github.com/buttplugio/buttplug-dart)
+- [Buttplug Dart](https://github.com/buttplugio/buttplug_dart)
   - Maintained by Buttplug Core Team
   - Standalone Dart library for connecting to [Intiface
     Central](https://intiface.com/central) or [Intiface
     Engine](https://github.com/intiface/intiface-engine)
   - Used in Intiface Central for the device tab
+
+### Gleam
+- [Bummer](https://github.com/FrostyX/bummer)
+  - Maintained by Community Developers
+  - Standalone Gleam client library for connecting to [Intiface
+    Central](https://intiface.com/central) or [Intiface
+    Engine](https://github.com/intiface/intiface-engine)
+  - Usable by other BEAM languages such as Erlang or Elixir
 
 ### Game Development
 
@@ -420,6 +482,10 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
 - [Buttplug Tampermonkey](https://github.com/buttplugio/buttplug-tampermonkey)
   - Integration of Buttplug with the [Tampermonkey](https://www.tampermonkey.net/) user scripting
     system for Web Browsers. Allows integration of devices with arbitrary webpages.
+- [ha-buttplug](https://github.com/DevelopmentalOctopus/ha-buttplug)
+  - Buttplug intergration for [Home Assistant](https://www.home-assistant.io/)
+  - You can connect your devices to various entities and create automations to control your devices
+    or trigger actions by devices, just like IFTTT.
 
 ## DIY Hardware Projects
 
